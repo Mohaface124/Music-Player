@@ -1,5 +1,4 @@
 from pyrogram import Client as Bot
-from pytgcalls import idle
 from callsmusic import run
 from config import API_ID, API_HASH, BOT_TOKEN
 
