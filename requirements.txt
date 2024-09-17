@@ -14,3 +14,4 @@ pillow
 future
 psutil
 wget
+pytgcalls
